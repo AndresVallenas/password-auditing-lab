@@ -1,0 +1,16 @@
+# Sensitive laboratory material
+private/
+hashes/
+results/
+
+# Password auditing files
+*.pot
+*.potfile
+*.rec
+john.pot
+
+# Linux account exports
+passwd-lab
+shadow-lab
+linux-hashes.txt
+
